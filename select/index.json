@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Dusk",
+  "base_artist": "HACHI",
+  "createdAt": "2026-02-08T09:58:32.069946Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Dusk Till Dawn - Radio Edit",
+      "artist": "ZAYN feat. Sia",
+      "has_synced": true,
+      "path": "select/01_Dusk_Till_Dawn_-_Radio_Edit_ZAYN_feat._Sia.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dusk Till Dawn (Radio Edit)",
+      "artist": "ZAYN, Sia",
+      "has_synced": true,
+      "path": "select/02_Dusk_Till_Dawn_(Radio_Edit)_ZAYN,_Sia.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Dusk to Dawn on Lygon Street",
+      "artist": "King Gizzard & The Lizard Wizard feat. Mild High Club",
+      "has_synced": true,
+      "path": "select/03_Dusk_to_Dawn_on_Lygon_Street_King_Gizzard_&_The_Lizard_Wizard_feat._Mild_High_Club.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dusk to Dawn on Lygon Street",
+      "artist": "King Gizzard and the Lizard Wizard with Mild High Club",
+      "has_synced": true,
+      "path": "select/04_Dusk_to_Dawn_on_Lygon_Street_King_Gizzard_and_the_Lizard_Wizard_with_Mild_High_Club.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Dusk",
+      "artist": "Planet Funk",
+      "has_synced": true,
+      "path": "select/05_Dusk_Planet_Funk.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Island (Dusk) Pt. 2",
+      "artist": "Pendulum",
+      "has_synced": false,
+      "path": "select/06_The_Island_(Dusk)_Pt._2_Pendulum.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Island - Pt. 2 (Dusk)",
+      "artist": "Pendulum",
+      "has_synced": false,
+      "path": "select/07_The_Island_-_Pt._2_(Dusk)_Pendulum.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Dusk",
+      "artist": "Lucy In Disguise feat. Observer Drift",
+      "has_synced": false,
+      "path": "select/08_Dusk_Lucy_In_Disguise_feat._Observer_Drift.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Dusk",
+      "artist": "Lucy in Disguise",
+      "has_synced": false,
+      "path": "select/09_Dusk_Lucy_in_Disguise.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "When Dusk Fell",
+      "artist": "Virgin Steele",
+      "has_synced": true,
+      "path": "select/10_When_Dusk_Fell_Virgin_Steele.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Dusk and Her Embrace",
+      "artist": "Cradle of Filth",
+      "has_synced": true,
+      "path": "select/11_Dusk_and_Her_Embrace_Cradle_of_Filth.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Dusk (Dark Is Descending)",
+      "artist": "Anathema",
+      "has_synced": false,
+      "path": "select/12_Dusk_(Dark_Is_Descending)_Anathema.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Dusk Mariner",
+      "artist": "Draconian",
+      "has_synced": true,
+      "path": "select/13_Dusk_Mariner_Draconian.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Dusk",
+      "artist": "HACHI",
+      "has_synced": false,
+      "path": "select/pl_01_Dusk_HACHI.txt"
+    }
+  ]
+}
